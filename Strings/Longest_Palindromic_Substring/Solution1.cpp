@@ -1,5 +1,5 @@
 /*
-LeetCode 5 - Longest Palindromic Substring
+LeetCode 5 - Longest Palindromic Substring (s1)
 
 Approach:
 1. Generate every possible substring using two nested loops.
